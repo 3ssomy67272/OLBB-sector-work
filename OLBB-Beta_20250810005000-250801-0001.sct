@@ -1,20 +1,25 @@
-;                                                                                                                         ;
-;  ALL RIGHTS RESERVED �Levant vACC. NAV-DATA � NAVIGRAPH. FILES MUST NOT BE DISTRIBUTED TO NON-VATSIM MEMBERS!   ;
-;                                                                                                                         ;
-;=========================================================================================================================;
-;Data provided by Navigraph - www.navigraph.com - Source data copyright (c) 2025 Jeppesen              ;
-;This data may be used for ground based recreational computer game              ;
-;simulation software only, and may not be recompiled, interpreted,              ;
-;or distributed for any purpose without the written consent of Navigraph.            ;
-;The contents of this database is dated and must not be used for real                    ;
-;world navigation as it is unlawful and unsafe to do so.                 ;
+;File provided for Levant vACC
+;To be used on VATSIM network only
 ;
-;=========================================================================================================================;
-;  AIRAC 2507/1  ++  Valid (from/to): 10/JUL/2025 - 07/AUG/2025  ++  File-Publisher: Levant vACC - OLBB                     ;
-;=========================================================================================================================;
+;Worldwide Navigation Database
+;Exported via DFD v1.0 25.0404
+;Software copyright (c) 2025 Richard Stefan, NAVData-Service
+;Support available via forum at http://forum.navigraph.com
+;
+;Data provided by Navigraph - www.navigraph.com
+;Source data copyright (c) 2025 Jeppesen
+;This data may be used for ground based recreational computer game
+;simulation software only, and may not be recompiled, interpreted,
+;or distributed for any purpose without the written consent of Navigraph.
+;The contents of this database is dated and must not be used for real
+;world navigation as it is unlawful and unsafe to do so.
+;
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+;AIRAC Cycle : 2508 (07/AUG/2025 - 04/SEP/2025) - Ver.1
+;------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [INFO]
-Levant vACC 2507/1 OLBB 20250707
+Levant vACC 2508/1 OLBB 20250810
 OLBA_TWR
 OLBA
 N033.49.51.309
