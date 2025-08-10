@@ -1,0 +1,75 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:OLBA Rafic Hariri Intl GATE\CARGO:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G1:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G10:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G11:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G12:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G13:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G14:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G15:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G16:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G17:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G18:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G19:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G2:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G20:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G21:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G23:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G3:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G5:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G6:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G7:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G8:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\G9:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N1:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N1A:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N1B:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N2:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N2A:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N2B:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\N3:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\NORTH PARKING GA:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\S1:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\S2:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\S3:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\TERMINAL A:freetext
+Free Text:OLBA Rafic Hariri Intl GATE\TERMINAL B:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\A:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\B:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\C:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\D:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\E:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\F:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\G:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\H:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\J:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\K:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\L:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\M:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\N:freetext
+Free Text:OLBA Rafic Hariri Intl TWY\O:freetext
+Geo:GEO:
+Geo:OLBA Groundlayout Rafic Hariri Intl Apt:
+Regions:OLBA Rafic Hariri Intl Ap:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:1000
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:355.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:33.784423:35.410417:33.870524:35.605716
+PLUGIN:Ground Radar plugin:AirportElevation:85
+PLUGIN:Ground Radar plugin:AirportRadius:8.0
+PLUGIN:Ground Radar plugin:GroundMode:OLBA
+PLUGIN:TopSky plugin:NoDraw:1

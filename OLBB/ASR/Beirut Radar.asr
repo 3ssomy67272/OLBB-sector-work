@@ -1,0 +1,118 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:OLBB Beirut CTA:
+ARTCC high boundary:LCCC Nicosia FIR:
+ARTCC high boundary:OLBB Beirut CTR:
+ARTCC high boundary:OSTT Damascus FIR:
+ARTCC low boundary:OLBB Beirut ATZ:
+ARTCC low boundary:OLBB Kleyate ATZ:
+ARTCC low boundary:OLBB Rayak ATZ:
+Airports:OLBA:name
+Airports:OLBA:symbol
+Airports:OLKA:name
+Airports:OLKA:symbol
+Airports:OLRA:name
+Airports:OLRA:symbol
+Airports:OSDI:name
+Airports:OSDI:symbol
+Fixes:BALMA:name
+Fixes:BALMA:symbol
+Fixes:CEDAR:name
+Fixes:CEDAR:symbol
+Fixes:DIRRE:name
+Fixes:DIRRE:symbol
+Fixes:ELIKA:name
+Fixes:ELIKA:symbol
+Fixes:KUKLA:name
+Fixes:KUKLA:symbol
+Fixes:LATEB:name
+Fixes:LATEB:symbol
+Fixes:LEBOR:name
+Fixes:LEBOR:symbol
+Fixes:LITAN:name
+Fixes:LITAN:symbol
+Geo:OLBB Landmark Beirut River:
+Geo:OLBB Landmark Lebanon Borderline:
+Geo:OLBB Landmark Lebanon CoastLine:
+High airways:L513:line
+High airways:L620:line
+High airways:M31:line
+High airways:M425:line
+High airways:M601:line
+High airways:N159:line
+High airways:N310:line
+High airways:P21:line
+High airways:P300:line
+High airways:R655:line
+High airways:UB15:line
+High airways:UG2:line
+High airways:UN310:line
+High airways:UN438:line
+High airways:UR219:line
+High airways:UR655:line
+Runways:OLBA 03-21:centerline
+Runways:OLBA 03-21:extended centerline 1
+Runways:OLBA 03-21:extended centerline 1 left ticks
+Runways:OLBA 03-21:extended centerline 1 right ticks
+Runways:OLBA 03-21:extended centerline 2
+Runways:OLBA 03-21:extended centerline 2 left ticks
+Runways:OLBA 03-21:extended centerline 2 right ticks
+Runways:OLBA 16-34:centerline
+Runways:OLBA 16-34:extended centerline 1
+Runways:OLBA 16-34:extended centerline 1 left ticks
+Runways:OLBA 16-34:extended centerline 1 right ticks
+Runways:OLBA 16-34:extended centerline 2
+Runways:OLBA 16-34:extended centerline 2 left ticks
+Runways:OLBA 16-34:extended centerline 2 right ticks
+Runways:OLBA 17-35:centerline
+Runways:OLBA 17-35:extended centerline 1
+Runways:OLBA 17-35:extended centerline 1 left ticks
+Runways:OLBA 17-35:extended centerline 1 right ticks
+Runways:OLBA 17-35:extended centerline 2
+Runways:OLBA 17-35:extended centerline 2 left ticks
+Runways:OLBA 17-35:extended centerline 2 right ticks
+Runways:OLKA 06-24:centerline
+Runways:OLKA 06-24:extended centerline 1
+Runways:OLKA 06-24:extended centerline 1 left ticks
+Runways:OLKA 06-24:extended centerline 1 right ticks
+Runways:OLKA 06-24:extended centerline 2
+Runways:OLKA 06-24:extended centerline 2 left ticks
+Runways:OLKA 06-24:extended centerline 2 right ticks
+Runways:OLRA 04-22:centerline
+Runways:OLRA 04-22:extended centerline 1
+Runways:OLRA 04-22:extended centerline 1 left ticks
+Runways:OLRA 04-22:extended centerline 1 right ticks
+Runways:OLRA 04-22:extended centerline 2
+Runways:OLRA 04-22:extended centerline 2 left ticks
+Runways:OLRA 04-22:extended centerline 2 right ticks
+Runways:OSDI 05L-23R:centerline
+Runways:OSDI 05L-23R:extended centerline 1
+Runways:OSDI 05L-23R:extended centerline 1 left ticks
+Runways:OSDI 05L-23R:extended centerline 1 right ticks
+Runways:OSDI 05L-23R:extended centerline 2
+Runways:OSDI 05L-23R:extended centerline 2 left ticks
+Runways:OSDI 05L-23R:extended centerline 2 right ticks
+Runways:OSDI 05R-23L:centerline
+Runways:OSDI 05R-23L:extended centerline 1
+Runways:OSDI 05R-23L:extended centerline 1 left ticks
+Runways:OSDI 05R-23L:extended centerline 1 right ticks
+Runways:OSDI 05R-23L:extended centerline 2
+Runways:OSDI 05R-23L:extended centerline 2 left ticks
+Runways:OSDI 05R-23L:extended centerline 2 right ticks
+SHOWC:1
+SHOWSB:0
+BELOW:200
+ABOVE:0
+LEADER:2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:LEB_RDR
+WINDOWAREA:32.752709:32.580308:35.459109:38.719102

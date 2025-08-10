@@ -1,0 +1,19 @@
+// Developed by Essam Morgan 1717486
+// File created and provided for Levant vACC
+//
+// OLBB QNH to transition level
+QNHTL:OL:130
+
+// OLBA level
+
+INITIAL_CFL:1500
+CFL_FRUL:V
+CFL_ADEP:OLBA
+
+INITIAL_CFL:2000
+CFL_FRUL:V
+CFL_ADEP:OLBA
+
+INITIAL_CFL:5000
+CFL_FRUL:I
+CFL_ADEP:OLBA

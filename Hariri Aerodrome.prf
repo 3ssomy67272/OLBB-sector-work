@@ -1,0 +1,71 @@
+Settings	sector	\OLBB-Beta_20250810005000-250801-0001.sct
+Settings	SettingsfileSIL	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileSEL	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileDEP	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileARR	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileFP	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileCONFLICT	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfilePILOTING	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileORIGPLANE	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileSTUP	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileTAXIOUT	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileTAKEOFF	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileADCS	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileTAXIIN	\OLBB\Settings\ATZ\List.txt
+Settings	SettingsfileSYMBOLOGY	\OLBB\Settings\ATZ\symbology.txt
+Settings	SettingsfileVOICE	\OLBB\Settings\ATZ\Voice-Channel.txt
+Settings	SettingsfilePROFILE	\OLBB\Settings\ATZ\Profile.txt
+Settings	SettingsfileTAGS	\OLBB\Settings\Tags.txt
+Settings	SettingsfilePLUGINS	\OLBB\Settings\Plugin.txt
+Settings	Settingsfile	\OLBB\Settings\ATZ\General.txt
+Settings	SettingsfileSCREEN	\OLBB\Settings\Screen.txt
+Settings	SettingsfileVCCS	\OLBB\Settings\VCCs.txt
+Plugins	Plugin0	\OLBB\Plugins\VCH.dll
+Plugins	Plugin0Display0	Ground Radar display
+Plugins	Plugin0Display1	Standard ES radar screen
+Plugins	Plugin1	\OLBB\Plugins\VATCANBookings.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2	\OLBB\Plugins\TopSky\TopSky.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin2Display1	Ground Radar display
+Plugins	Plugin3	\OLBB\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin4	\OLBB\Plugins\Audio for VATSIM\AfvEuroScopeBridge.dll
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Sounds	Sound0	\OLBB\Plugins\TopSky\TopSkySoundCoord.wav
+Sounds	Sound1	\OLBB\Plugins\TopSky\TopSkySoundCoordACP.wav
+Sounds	Sound2	\OLBB\Sounds\conflict_alert.wav
+Sounds	Sound3	\OLBB\Sounds\radio_message.wav
+Sounds	Sound4	\OLBB\Sounds\private_message.wav
+Sounds	Sound5	\OLBB\Sounds\atc_message.wav
+Sounds	Sound6	\OLBB\Sounds\broadcast_message.wav
+Sounds	Sound7	\OLBB\Sounds\landline_request.wav
+Sounds	Sound8	\OLBB\Sounds\supervisor_message.wav
+Sounds	Sound9	\OLBB\Sounds\connected.wav
+Sounds	Sound10	\OLBB\Sounds\disconnected.wav
+Sounds	Sound11	\OLBB\Sounds\ongoing_request.wav
+Sounds	Sound12	\OLBB\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\OLBB\Sounds\ongoing_request.wav
+Sounds	Sound14	\OLBB\Sounds\ongoing_manual.wav
+Sounds	Sound15	\OLBB\Sounds\new_atis.wav
+Sounds	Sound16	\OLBB\Sounds\handoff_refused.wav
+Sounds	Sound17	\OLBB\Sounds\pointout.wav
+Sounds	Sound18	\OLBB\Sounds\startup.wav
+Settings	alias	\OLBB\Alias\alias.txt
+Settings	airlines	\OLBB\ICAO\ICAO_Airlines.txt
+Settings	airports	\OLBB\ICAO\ICAO_Airports.txt
+Settings	aircraft	\OLBB\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\OLBB\NavData\icao.txt
+Settings	airways	\OLBB\NavData\airway.txt
+ASRFastKeys	1	\OLBB\ASR\Rafic Hariri ATZ.asr
+ASRFastKeys	2	\OLBB\ASR\Rafic Hariri GMC.asr
+Plugins	Plugin5	\OLBB\Plugins\GRP\GRplugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin5Display1	Standard ES radar screen
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+RecentFiles	Recent1	\OLBB\ASR\Rafic Hariri ATZ.asr
+RecentFiles	Recent2	\OLBB\ASR\Rafic Hariri GMC.asr

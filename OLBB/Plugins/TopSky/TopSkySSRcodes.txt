@@ -1,0 +1,26 @@
+// Modified by Essam Morgan 1717486
+// File created and provided for Levant vACC
+//
+// Departures
+RANGE:5600:5677
+ADEP:OL
+IFR
+VFR
+
+// Arrivals
+RANGE:4300:4377
+ADES:OL
+IFR
+VFR
+
+// Domestic
+RANGE:2600:2677
+ADEP:OL
+ADES:OL
+IFR
+VFR
+
+// Transit
+RANGE:4300:4377
+NOTADEP:OL
+NOTADES:OL
