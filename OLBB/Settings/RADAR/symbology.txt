@@ -2,9 +2,9 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:6579300:1.0:0:0:7
 Airports:name:6579300:4.5:0:0:1
-Low airways:line:5395026:3.5:0:0:7
+Low airways:line:4079166:3.5:0:1:7
 Low airways:name:16777215:3.5:0:0:8
-High airways:line:4473924:3.5:2:1:7
+High airways:line:4473924:3.5:1:1:7
 High airways:name:16777215:3.5:0:0:8
 Fixes:symbol:263172:1.0:0:0:7
 Fixes:name:9211020:3.5:0:0:6
